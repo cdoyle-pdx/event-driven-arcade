@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.2
+
+- “Reach out and touch someone.” — AT&T advertising (1979)
+- “Get your stinking paws off me, you damned dirty ape!” — Taylor, *Planet of the Apes* (1968)
+- “The hand that rocks the cradle is the hand that rules the world.” — William Ross Wallace (1865)
+- “Wax on, wax off.” — Mr. Miyagi, *The Karate Kid* (1984)
+- “All work and no play makes Jack a dull boy.” — Jack Torrance, *The Shining* (1980)
+- “That's one small step for man, one giant leap for mankind.” — Neil Armstrong (1969)
+
 ## v2.0.1
 
 - “Mr. Watson, come here, I want to see you.” — Alexander Graham Bell (1876)
