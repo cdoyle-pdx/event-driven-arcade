@@ -1,6 +1,6 @@
 # Changelog
 
-## v2.0.0
+## v2.0.1
 
 - “Mr. Watson, come here, I want to see you.” — Alexander Graham Bell (1876)
 - “Can you hear me now?” — the Verizon test man (2002)
@@ -9,15 +9,6 @@
 - “Speak, friend, and enter.” — the West-gate of Moria, J. R. R. Tolkien, *The Fellowship of the Ring* (1954)
 - “Pay no attention to that man behind the curtain!” — the Wizard, *The Wizard of Oz* (1939)
 - “Welcome to the real world.” — Morpheus, *The Matrix* (1999)
-
-## v1.9.9
-
-- "War. War never changes." The Narrator, *Fallout* (1997)
-- "Death can have me when it earns me." Kratos, *God of War: Ragnarok* (2022)
-- "End of line." MCP, *Tron* (1982)
-- "The mediator between the head and hands must be the heart." Maria, *Metropolis* (1927)
-- "We die." Xur, *The Last Starfighter* (1984)
-- "Woah" Keanu Reeves, *Various*
 
 ## v1.9.8
 
