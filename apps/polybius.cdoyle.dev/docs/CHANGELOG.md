@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.3
+
+- “Data! Data! Data! I can't make bricks without clay.” — Sherlock Holmes, Arthur Conan Doyle, “The Adventure of the Copper Beeches” (1892)
+- “Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway.” — Andrew S. Tanenbaum (1981)
+- “The first rule of Fight Club is: you do not talk about Fight Club.” — Tyler Durden, *Fight Club* (1999)
+- “Inconceivable!” — Vizzini, *The Princess Bride* (1987)
+- “I find your lack of faith disturbing.” — Darth Vader, *Star Wars* (1977)
+- “Danger, Will Robinson!” — the Robot, *Lost in Space* (1965)
+
 ## v2.0.2
 
 - “Reach out and touch someone.” — AT&T advertising (1979)
