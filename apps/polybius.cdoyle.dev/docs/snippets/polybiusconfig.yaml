@@ -9,6 +9,8 @@ spec:
   boardSize: 10
   defaultPace: booth
   devTools: false
+  psionicCalibration: Nominal
+  cabinetIndex: 0
   telemetry: true
   eventKeep: 200
   scoreTransactions: false

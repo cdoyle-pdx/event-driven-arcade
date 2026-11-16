@@ -6,9 +6,9 @@
 | -------------------- |-----------------------------------------|
 | **Group/Version**    | -{{ app_group }}-/-{{ app_api_version }}-   |
 | **Supported OS**     | -{{ supported_os_versions() }}-  |
-| **Catalog**          | [cdoyle-pdx/eda-catalog][manifest] |
+| **Catalog**          | [cdoyle-pdx/event-driven-arcade][manifest] |
 
-[manifest]: https://github.com/cdoyle-pdx/eda-catalog/tree/main/apps/polybius.cdoyle.dev
+[manifest]: https://github.com/cdoyle-pdx/event-driven-arcade/tree/main/apps/polybius.cdoyle.dev
 
 Polybius is an arcade game styled after the 1981 cabinet that supposedly appeared in a Portland arcade and
 was never seen again. Ten game modes rotate without warning; a terminal interrogates the player about

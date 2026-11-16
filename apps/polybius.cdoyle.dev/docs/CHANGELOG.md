@@ -1,22 +1,23 @@
 # Changelog
 
-## v1.9.10
-- "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration." - *Frank Herbert* (1965)
-- "Stuff your eyes with wonder, live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - *Ray Bradbury* (1953)
-- "The sky above the port was the color of television, tuned to a dead channel." - *William Gibson* (1984)
-- "Any sufficiently advanced technology is indistinguishable from magic." - *Arthur C. Clarke* (1962)
-- "Violence is the last refuge of the incompetent." - *Isaac Asimov* (1951)
-- "Science is too important to be left to the scientists." - *Carl Sagan* (1985)
+## v2.0.0
+
+- “Mr. Watson, come here, I want to see you.” — Alexander Graham Bell (1876)
+- “Can you hear me now?” — the Verizon test man (2002)
+- “Houston, we've had a problem.” — Jack Swigert, Apollo 13 (1970)
+- “Ah, ah, ah! You didn't say the magic word!” — Dennis Nedry, *Jurassic Park* (1993)
+- “Speak, friend, and enter.” — the West-gate of Moria, J. R. R. Tolkien, *The Fellowship of the Ring* (1954)
+- “Pay no attention to that man behind the curtain!” — the Wizard, *The Wizard of Oz* (1939)
+- “Welcome to the real world.” — Morpheus, *The Matrix* (1999)
 
 ## v1.9.9
 
-- "Vancouver! Vancouver! This is it!" - *David Johnston* (1980)
-- "Smile, my boy. It's sunrise." - *Robin Williams* (2014)
-- "Roads? Where we're going, we don't need roads." - *Doc Brown* (1985)
-- "Life is precious. Enjoy every single second. You never know when... Good luck." - *Tony Todd* (2025)
-- "I'm glad it's you." - *Paul Newman* (2002)
-- "I'm just here for guzzalean." *(Mad) Max Rockatansky* (1979)
-- "It's over now!" - *Cpt. Masami Takahama* (1985)
+- "War. War never changes." The Narrator, *Fallout* (1997)
+- "Death can have me when it earns me." Kratos, *God of War: Ragnarok* (2022)
+- "End of line." MCP, *Tron* (1982)
+- "The mediator between the head and hands must be the heart." Maria, *Metropolis* (1927)
+- "We die." Xur, *The Last Starfighter* (1984)
+- "Woah" Keanu Reeves, *Various*
 
 ## v1.9.8
 

@@ -58,6 +58,13 @@ spec:
                 maximum: 10
                 minimum: 3
                 type: integer
+              cabinetIndex:
+                default: 0
+                description: CabinetIndex is this cabinet's position on the arcade
+                  floor, 0 to 19.
+                maximum: 19
+                minimum: 0
+                type: integer
               defaultPace:
                 description: |-
                   DefaultPace is the pace a new browser starts on. arcade is the full game:
@@ -80,7 +87,8 @@ spec:
               devTools:
                 description: |-
                   DevTools shows the test controls under the game screen (test
-                  interrogation, test crash, jump to mode, unlock, reset). Off by default.
+                  interrogation, test crash, jump to mode, unlock, reset) in a developer
+                  build only; the published game ignores it. Off by default.
                 type: boolean
               eventKeep:
                 default: 200
@@ -106,6 +114,33 @@ spec:
                 description: |-
                   ProfileNamespace is where PolybiusProfile resources are kept. It is
                   separate from ScoreNamespace so achievements follow players across boards.
+                type: string
+              psionicCalibration:
+                default: Nominal
+                description: |-
+                  PsionicCalibration tunes the cabinet's emitter to the arcade it stands
+                  in. Nominal suits most arcades.
+                enum:
+                - Nominal
+                - Recognizer
+                - Theta Drift
+                - Alpha Bloom
+                - Beta Flicker
+                - Delta Hush
+                - Gamma Burst
+                - Subliminal
+                - Hypnagogic
+                - Night Terror
+                - Somnambulist
+                - Insomniac
+                - Amnesiac
+                - Phosphene
+                - Afterimage
+                - Ghost Signal
+                - Lucid
+                - Vector Echo
+                - Watcher
+                - Black Van
                 type: string
               scoreNamespace:
                 default: eda
