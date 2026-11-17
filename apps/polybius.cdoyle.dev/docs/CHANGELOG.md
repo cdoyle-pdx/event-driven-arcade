@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.4
+
+- “We all float down here.” — Pennywise, Stephen King, *It* (1986)
+- “Why so serious?” — the Joker, *The Dark Knight* (2008)
+- “It's alive! It's alive!” — Henry Frankenstein, *Frankenstein* (1931)
+- “The face is a picture of the mind, as the eyes are its interpreter.” — Cicero
+- “The time is out of joint.” — Hamlet, William Shakespeare (c. 1600)
+- “Lost time is never found again.” — Benjamin Franklin, *Poor Richard's Almanack* (1748)
+
 ## v2.0.3
 
 - “Data! Data! Data! I can't make bricks without clay.” — Sherlock Holmes, Arthur Conan Doyle, “The Adventure of the Copper Beeches” (1892)
