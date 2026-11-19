@@ -1,5 +1,28 @@
 # Changelog
 
+## v0.1.5
+
+- Games can now change Directions while they run, with
+  `ArcadeInput.setDirections("8way" | "newest" | "hold" | null)`. A game can
+  allow diagonals where you fly or walk freely and keep the profile's 4-way
+  setting everywhere else. `null` goes back to the profile. Directions held at
+  the switch are released and read again, so nothing sticks. Polybius v2.0.6
+  uses it.
+- Tester: the Directions choice now explains what each option does, and that a
+  game can change it while you play.
+
+## v0.1.4
+
+- Roles are now EDA cluster roles (`core.eda.nokia.com/v1`). The earlier
+  Kubernetes ClusterRoles had no effect, because EDA's API doesn't use
+  Kubernetes RBAC: non-admin players could not read profiles, so games fell
+  back to the built-in layout.
+- `eda-gamepad-reader` is renamed `eda-gamepad-player`, matching the games'
+  player roles. `eda-gamepad-admin` keeps its name.
+- New page, linked from the top of the tester: Access for players and profile
+  editors (what the roles are, why players need one, how to assign them
+  through user groups, and how to check).
+
 ## v0.1.3
 
 - New `fourWayMode: hold` for 4-way profiles: a diagonal keeps the current

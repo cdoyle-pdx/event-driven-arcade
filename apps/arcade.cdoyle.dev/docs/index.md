@@ -59,11 +59,13 @@ Without any profile, games use a built-in layout for standard X-Input pads.
 
 | Role | Grants |
 |---|---|
-| `eda-gamepad-reader` | Read profiles, which players need for their profile to apply |
+| `eda-gamepad-player` | Read profiles, which players need for their profile to apply |
 | `eda-gamepad-admin` | Create, edit and delete profiles |
 
-Games can grant read access in their own player role instead. See the
-integration guide.
+These are EDA cluster roles: assign them to user groups under
+**System Administration → User Management**. Administrators already have
+access, so test with a non-admin user. The app serves a full guide at
+`/core/httpproxy/v1/gamepad/ACCESS.html`, linked from the tester.
 
 ## Adding controller support to a game
 
