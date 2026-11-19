@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.0.6
+
+- “Do a barrel roll!” — Peppy Hare, *Star Fox 64* (1997)
+- “Use the Force, Luke.” — Obi-Wan Kenobi, *Star Wars* (1977)
+- “I'm walking here! I'm walking here!” — Ratso Rizzo, *Midnight Cowboy* (1969)
+- “When you come to a fork in the road, take it.” — Yogi Berra
+- “Go West, young man.” — attributed to Horace Greeley (1865)
+
 ## v2.0.5
 
 - “Hurry up please it's time.” — T. S. Eliot, *The Waste Land* (1922)
