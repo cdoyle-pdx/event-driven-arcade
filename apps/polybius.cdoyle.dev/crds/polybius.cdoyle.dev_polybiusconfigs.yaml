@@ -58,6 +58,17 @@ spec:
                 maximum: 10
                 minimum: 3
                 type: integer
+              boothTimers:
+                default: normal
+                description: |-
+                  BoothTimers sets the pace of booth play. normal: a system query every
+                  95-130 s and a mode change every 45-60 s. aggressive: a mode change
+                  every 30 s and a system query every 60 s (every second mode change).
+                  Ignored in arcade.
+                enum:
+                - normal
+                - aggressive
+                type: string
               cabinetIndex:
                 default: 0
                 description: CabinetIndex is this cabinet's position on the arcade
@@ -67,11 +78,12 @@ spec:
                 type: integer
               defaultPace:
                 description: |-
-                  DefaultPace is the pace a new browser starts on. arcade is the full game:
-                  a system query every 2-3.5 min, a mode change every 90-145 s,
-                  achievements, and the Arcade ending. booth is the show-floor cabinet: a
-                  query every 1-2 min, a mode change every 60-90 s, no achievements, and the
-                  Booth ending. A player's own choice wins; it applies from the next game.
+                  DefaultPace is the play mode, set here only (players cannot change it).
+                  arcade is the full game: a system query every 130-175 s, a mode change
+                  every 60-105 s, achievements, the Hardcore option, and the Arcade ending.
+                  booth is the show-floor cabinet: always hardcore (any hit drops to
+                  Force I), faster timers (see BoothTimers), no achievements, and the
+                  Booth ending. Empty means arcade. Applies from the next game.
                 enum:
                 - arcade
                 - booth

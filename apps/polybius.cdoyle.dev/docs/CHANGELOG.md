@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.5
+
+- “Hurry up please it's time.” — T. S. Eliot, *The Waste Land* (1922)
+- “I'm late! I'm late! For a very important date!” — the White Rabbit, *Alice in Wonderland* (1951)
+- “You're gonna need a bigger boat.” — Martin Brody, *Jaws* (1975)
+- “Here's Johnny!” — Jack Torrance, *The Shining* (1980)
+- “Faster than a speeding bullet!” — *The Adventures of Superman* (1940)
+- “Resistance is futile.” — the Borg, *Star Trek: The Next Generation* (1990)
+
 ## v2.0.4
 
 - “We all float down here.” — Pennywise, Stephen King, *It* (1986)

@@ -8,6 +8,7 @@ spec:
   profileNamespace: eda
   boardSize: 10
   defaultPace: booth
+  boothTimers: normal
   devTools: false
   psionicCalibration: Nominal
   cabinetIndex: 0
